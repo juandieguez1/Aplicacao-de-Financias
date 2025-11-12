@@ -88,11 +88,14 @@ Adicionar usuário e senha no coindo na classe conexao
 2°passo= instalar o java fx no Eclipse IDE
 
 3°passo= instalar o Windows builder na maquina
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjhxc3lyu2QAxXyLLkGHdVuKmgQFnoECBoQAQ&url=https%3A%2F%2Feclipse.dev%2Fwindowbuilder%2Fdownloads%2F&usg=AOvVaw3H_yTJ9u7g79SB1bmUpRTV&opi=89978449
 
 Exportar o jar contido na pasta lib do javafx-sdk (Não é o mesmo que se instala no eclipse)
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiatOD5yu2QAxVDBrkGHcHhGgIQFnoECBcQAQ&url=https%3A%2F%2Fopenjfx.io%2F&usg=AOvVaw2P5dkXLo34-ktNP6qMX847&opi=89978449
 
 Exportar também o jar contido no mysql-connector
 
 4°= cria uma chave api no Gemini
 cria uma chave api no coin Market 
 Ambas tem bem definido onde coloca-las, a do gemini na TelaResumo 1 e 2 e da Coinmarket em CoinApi
+
